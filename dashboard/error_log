@@ -1,0 +1,20 @@
+[06-Jan-2021 09:44:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '09:44:08 where id=3' at line 1 in /home/j5ntysw09ib3/public_html/dashboard/pages.php:84
+Stack trace:
+#0 /home/j5ntysw09ib3/public_html/dashboard/pages.php(84): mysqli->query('update meta_inf...')
+#1 {main}
+  thrown in /home/j5ntysw09ib3/public_html/dashboard/pages.php on line 84
+[06-Jan-2021 09:45:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '09:45:04 where id=3' at line 1 in /home/j5ntysw09ib3/public_html/dashboard/pages.php:84
+Stack trace:
+#0 /home/j5ntysw09ib3/public_html/dashboard/pages.php(84): mysqli->query('update meta_inf...')
+#1 {main}
+  thrown in /home/j5ntysw09ib3/public_html/dashboard/pages.php on line 84
+[06-Jan-2021 09:45:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '09:45:34 where id=3' at line 1 in /home/j5ntysw09ib3/public_html/dashboard/pages.php:84
+Stack trace:
+#0 /home/j5ntysw09ib3/public_html/dashboard/pages.php(84): mysqli->query('update meta_inf...')
+#1 {main}
+  thrown in /home/j5ntysw09ib3/public_html/dashboard/pages.php on line 84
+[06-Jan-2021 09:46:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '09:46:42 where id=3' at line 1 in /home/j5ntysw09ib3/public_html/dashboard/pages.php:84
+Stack trace:
+#0 /home/j5ntysw09ib3/public_html/dashboard/pages.php(84): mysqli->query('update meta_inf...')
+#1 {main}
+  thrown in /home/j5ntysw09ib3/public_html/dashboard/pages.php on line 84

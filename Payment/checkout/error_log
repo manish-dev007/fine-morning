@@ -1,0 +1,13 @@
+[24-Dec-2020 13:53:03 UTC] PHP Notice:  Undefined index: order_id in /home/j5ntysw09ib3/public_html/Payment/checkout/index.php on line 35
+[11-Jan-2021 06:52:49 UTC] PHP Notice:  Undefined index: razorpay_payment_id in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 3
+[11-Jan-2021 06:52:49 UTC] PHP Notice:  Undefined index: check_pid in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 36
+[11-Jan-2021 06:52:49 UTC] PHP Notice:  Undefined index: checkout_online_pay in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 37
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: razorpay_payment_id in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 47
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: merchant_order_id in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 47
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: uid in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 84
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: uid in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 95
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: razorpay_payment_id in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 99
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: razorpay_payment_id in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 103
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: merchant_order_id in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 103
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: razorpay_order_id in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 103
+[11-Jan-2021 12:22:49 Asia/Kolkata] PHP Notice:  Undefined index: razorpay_signature in /home/j5ntysw09ib3/public_html/Payment/checkout/verify.php on line 103
